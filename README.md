@@ -14,4 +14,4 @@ In the following exercise, we aim to develop a mobile application that allows us
 
 <img src="./screens/loginPage.jpg" alt="Registration Screen" width="200" />
 
-<img src="./screens/list_of_pilots.jpg" alt="Pilots' List Screen" width="200" />
+<img src="./screens/list_of__pilots.jpg" alt="Pilots' List Screen" width="200" />
