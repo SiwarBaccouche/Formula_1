@@ -31,7 +31,7 @@ In the following exercise, we aim to develop a mobile application that allows us
     Since it's not mentioned how we should handle exiting the app from the home screen,
     I've used a WillPopScope() and an AlertDialog as follows
 
-<img src="./screens/exitDialoAert.jpg" alt="Splash Screen" width="200" />
+<img src="./screens/exitDialogAert.jpg" alt="Alert Dialog" width="200" />
 
 ## Script
 Please check the master branche
