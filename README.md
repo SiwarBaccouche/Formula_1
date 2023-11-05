@@ -27,5 +27,10 @@ In the following exercise, we aim to develop a mobile application that allows us
 
 <img src="./screens/list_of__pilots.jpg" alt="Pilots' List Screen" width="200" />
 
+### Note 
+    Since it's not mentioned how we should handle exiting the app from the home screen, I've used a WillPopScope() and an AlertDialog as follows
+
+<img src="./screens/exitDialoAlert.jpg" alt="Splash Screen" width="200" />
+
 ## Script
 Please check the master branche
